@@ -94,9 +94,10 @@
   ],
   "produits_complementaires": [
     {
-      "nom": "FRAIS ADMI  PART 299€",
-      "prix_ht": 299.0,
-      "marge_ht": 299.0
+      "nom": "FRAIS ADMI  PART 199€",
+      "prix_ht": 199.0,
+      "marge_ht": 199.0,
+      "actif": true
     },
     {
       "nom": "CERAMIQUE 582,50€",
@@ -126,8 +127,7 @@
     "BLANC SEBASTIEN",
     "CAMARA JOACHIM",
     "LOPEZ TRISTAN",
-    "GRILLON-MATTIO MURIEL",
-    "PAUL PAUL"
+    "GRILLON-MATTIO MURIEL"
   ],
   "chefs_des_ventes": [
     "CAMARA JOACHIM",
