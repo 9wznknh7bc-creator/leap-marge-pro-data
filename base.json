@@ -1,0 +1,1086 @@
+{
+  "vehicules": [
+    {
+      "nom": "T03 DESIGN",
+      "prix_achat_ht": 15437.5,
+      "prix_tarif_ht": 16250.0,
+      "options_ht": 0.0,
+      "actif": true
+    },
+    {
+      "nom": "B10 LIFE PRO",
+      "prix_achat_ht": 23422.66,
+      "prix_tarif_ht": 25296.47,
+      "options_ht": 0.0,
+      "actif": true
+    },
+    {
+      "nom": "B10 LIFE PROMAX",
+      "prix_achat_ht": 26155.84,
+      "prix_tarif_ht": 28248.31,
+      "options_ht": 0.0,
+      "actif": true
+    },
+    {
+      "nom": "B10 NEW E-HYBRID DESIGN",
+      "prix_achat_ht": 25739.17,
+      "prix_tarif_ht": 27798.3,
+      "options_ht": 0.0,
+      "actif": true
+    },
+    {
+      "nom": "B10 NEW E-HYBRID LIFE",
+      "prix_achat_ht": 24988.33,
+      "prix_tarif_ht": 26987.4,
+      "options_ht": 0.0,
+      "actif": true
+    },
+    {
+      "nom": "B10 DESIGN PROMAX",
+      "prix_achat_ht": 26188.34,
+      "prix_tarif_ht": 28283.41,
+      "options_ht": 0.0,
+      "actif": true
+    },
+    {
+      "nom": "C10 LIFE REEV",
+      "prix_achat_ht": 29296.0,
+      "prix_tarif_ht": 31639.68,
+      "options_ht": 0.0,
+      "actif": true
+    },
+    {
+      "nom": "C10 LIFE PRO",
+      "prix_achat_ht": 0.0,
+      "prix_tarif_ht": 0.0,
+      "options_ht": 0.0,
+      "actif": true
+    },
+    {
+      "nom": "C10 DESIGN REEV",
+      "prix_achat_ht": 30431.67,
+      "prix_tarif_ht": 32866.2,
+      "options_ht": 0.0,
+      "actif": true
+    },
+    {
+      "nom": "C10 DESIGN PRO",
+      "prix_achat_ht": 30431.67,
+      "prix_tarif_ht": 32866.2,
+      "options_ht": 0.0,
+      "actif": true
+    },
+    {
+      "nom": "B05 LIFE PRO",
+      "prix_achat_ht": 21071.7,
+      "prix_tarif_ht": 22757.44,
+      "options_ht": 0.0,
+      "actif": true
+    },
+    {
+      "nom": "B05 DESIGN PRO MAX",
+      "prix_achat_ht": 23814.33,
+      "prix_tarif_ht": 25719.48,
+      "options_ht": 0.0,
+      "actif": true
+    },
+    {
+      "nom": "B05 LIFE PROMAX",
+      "prix_achat_ht": 23030.0,
+      "prix_tarif_ht": 24872.4,
+      "options_ht": 0.0,
+      "actif": true
+    }
+  ],
+  "produits_complementaires": [
+    {
+      "nom": "FRAIS ADMI  PART 299€",
+      "prix_ht": 299.0,
+      "marge_ht": 299.0
+    },
+    {
+      "nom": "CERAMIQUE 582,50€",
+      "prix_ht": 582.5,
+      "marge_ht": 582.5
+    },
+    {
+      "nom": "WAXOYL 249,17€",
+      "prix_ht": 249.17,
+      "marge_ht": 249.17
+    },
+    {
+      "nom": "CONFORT 210€",
+      "prix_ht": 210.0,
+      "marge_ht": 210.0
+    },
+    {
+      "nom": "INTEGRAL 300€",
+      "prix_ht": 300.0,
+      "marge_ht": 300.0
+    }
+  ],
+  "commerciaux": [
+    "NIEK CHLOE",
+    "SONGVILAY THAN",
+    "PEROIS STEVE",
+    "BLANC SEBASTIEN",
+    "CAMARA JOACHIM",
+    "LOPEZ TRISTAN",
+    "GRILLON-MATTIO MURIEL"
+  ],
+  "chefs_des_ventes": [
+    "CAMARA JOACHIM",
+    "BLANC SEBASTIEN",
+    "LOPEZ TRISTAN",
+    "GRILLON-MATTIO MURIEL"
+  ],
+  "etablissements": [
+    "GRENOBLE",
+    "SEYNOD"
+  ],
+  "types_acquisition": [
+    "ACHAT",
+    "LOA",
+    "LLD",
+    "RENT",
+    "VD"
+  ],
+  "historique": [],
+  "aides": [
+    {
+      "type": "PARTICULIER",
+      "vehicule": "T03 DESIGN",
+      "nom": "REMISE CLIENT  -> 2220€ TTC",
+      "montant_ttc": 2220.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "T03 DESIGN",
+      "nom": "RENFORT LOA 228->1500€ TTC",
+      "montant_ttc": 1500.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B05 LIFE PRO",
+      "nom": "REMISE CLIENT -> 1500€ TTC",
+      "montant_ttc": 1500.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B05 DESIGN PRO MAX",
+      "nom": "REMISE CLIENT -> 2000€ TTC",
+      "montant_ttc": 2000.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B05 LIFE PROMAX",
+      "nom": "REMISE CLIENT -> 2000€ TTC",
+      "montant_ttc": 2000.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B10 LIFE PRO",
+      "nom": "REMISE CLIENT -> 1500€ TTC",
+      "montant_ttc": 1500.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B10 LIFE PROMAX",
+      "nom": "REMISE CLIENT -> 2000€ TTC",
+      "montant_ttc": 2000.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B10 NEW E-HYBRID DESIGN",
+      "nom": "REMISE CLIENT -> 2000€ TTC",
+      "montant_ttc": 2000.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B10 NEW E-HYBRID LIFE",
+      "nom": "REMISE CLIENT -> 2000€ TTC",
+      "montant_ttc": 2000.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B10 DESIGN PROMAX",
+      "nom": "REMISE CLIENT -> 2000€ TTC",
+      "montant_ttc": 2000.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "C10 LIFE PRO",
+      "nom": "REMISE DU CLIENT->2120€ TTC",
+      "montant_ttc": 2120.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "C10 DESIGN PRO",
+      "nom": "REMISE DU CLIENT->2120€ TTC",
+      "montant_ttc": 2120.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "C10 LIFE PRO",
+      "nom": "BOOSTER STOCK MY24 125/229->2500€ TTC",
+      "montant_ttc": 2500.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "C10 DESIGN PRO",
+      "nom": "BOOSTER STOCK MY24 125/229->2500€ TTC",
+      "montant_ttc": 2500.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "C10 LIFE PRO",
+      "nom": "PRIME REPRISE -> 1500€ TTC",
+      "montant_ttc": 1500.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "C10 DESIGN PRO",
+      "nom": "PRIME REPRISE -> 1500€ TTC",
+      "montant_ttc": 1500.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "C10 LIFE REEV",
+      "nom": "REMISE CLIENT ->4020€ TTC",
+      "montant_ttc": 4020.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "C10 DESIGN REEV",
+      "nom": "REMISE CLIENT ->4020€ TTC",
+      "montant_ttc": 4020.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "C10 LIFE REEV",
+      "nom": "PRIME REPRISE -> 2000€ TTC",
+      "montant_ttc": 2000.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "C10 DESIGN REEV",
+      "nom": "PRIME REPRISE -> 2000€ TTC",
+      "montant_ttc": 2000.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "VD",
+      "vehicule": "T03 DESIGN",
+      "nom": "MISE EN VD-> 2,5%",
+      "montant_ttc": 0.0,
+      "pourcentage": 2.5,
+      "actif": true
+    },
+    {
+      "type": "VD",
+      "vehicule": "B10 LIFE PRO",
+      "nom": "MISE EN VD-> 4%",
+      "montant_ttc": 0.0,
+      "pourcentage": 4.0,
+      "actif": true
+    },
+    {
+      "type": "VD",
+      "vehicule": "B10 LIFE PROMAX",
+      "nom": "MISE EN VD-> 4%",
+      "montant_ttc": 0.0,
+      "pourcentage": 4.0,
+      "actif": true
+    },
+    {
+      "type": "VD",
+      "vehicule": "B10 NEW E-HYBRID DESIGN",
+      "nom": "MISE EN VD-> 4%",
+      "montant_ttc": 0.0,
+      "pourcentage": 4.0,
+      "actif": true
+    },
+    {
+      "type": "VD",
+      "vehicule": "B10 NEW E-HYBRID LIFE",
+      "nom": "MISE EN VD-> 4%",
+      "montant_ttc": 0.0,
+      "pourcentage": 4.0,
+      "actif": true
+    },
+    {
+      "type": "VD",
+      "vehicule": "B10 DESIGN PROMAX",
+      "nom": "MISE EN VD-> 4%",
+      "montant_ttc": 0.0,
+      "pourcentage": 4.0,
+      "actif": true
+    },
+    {
+      "type": "VD",
+      "vehicule": "C10 LIFE REEV",
+      "nom": "MISE EN VD-> 4%",
+      "montant_ttc": 0.0,
+      "pourcentage": 4.0,
+      "actif": true
+    },
+    {
+      "type": "VD",
+      "vehicule": "C10 LIFE PRO",
+      "nom": "MISE EN VD-> 4%",
+      "montant_ttc": 0.0,
+      "pourcentage": 4.0,
+      "actif": true
+    },
+    {
+      "type": "VD",
+      "vehicule": "C10 DESIGN REEV",
+      "nom": "MISE EN VD-> 4%",
+      "montant_ttc": 0.0,
+      "pourcentage": 4.0,
+      "actif": true
+    },
+    {
+      "type": "VD",
+      "vehicule": "C10 DESIGN PRO",
+      "nom": "MISE EN VD-> 4%",
+      "montant_ttc": 0.0,
+      "pourcentage": 4.0,
+      "actif": true
+    },
+    {
+      "type": "VD",
+      "vehicule": "B05 LIFE PRO",
+      "nom": "MISE EN VD-> 4%",
+      "montant_ttc": 0.0,
+      "pourcentage": 4.0,
+      "actif": true
+    },
+    {
+      "type": "VD",
+      "vehicule": "B05 DESIGN PRO MAX",
+      "nom": "MISE EN VD-> 4%",
+      "montant_ttc": 0.0,
+      "pourcentage": 4.0,
+      "actif": true
+    },
+    {
+      "type": "VD",
+      "vehicule": "B05 LIFE PROMAX",
+      "nom": "MISE EN VD-> 4%",
+      "montant_ttc": 0.0,
+      "pourcentage": 4.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "T03 DESIGN",
+      "nom": "PALIER 1 ->15%",
+      "montant_ttc": 0.0,
+      "pourcentage": 15.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "T03 DESIGN",
+      "nom": "PALIER 2 -> 17%",
+      "montant_ttc": 0.0,
+      "pourcentage": 17.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "T03 DESIGN",
+      "nom": "PALIER 3 -> 19%",
+      "montant_ttc": 0.0,
+      "pourcentage": 19.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "T03 DESIGN",
+      "nom": "GRAND COMPTE - >23%",
+      "montant_ttc": 0.0,
+      "pourcentage": 23.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B10 LIFE PRO",
+      "nom": "PALIER 1 ->17%",
+      "montant_ttc": 0.0,
+      "pourcentage": 17.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B10 LIFE PRO",
+      "nom": "PALIER 2 -> 18,50%",
+      "montant_ttc": 0.0,
+      "pourcentage": 18.5,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B10 LIFE PRO",
+      "nom": "PALIER 3 -> 20%",
+      "montant_ttc": 0.0,
+      "pourcentage": 20.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B10 LIFE PRO",
+      "nom": "GRAND COMPTE - >23%",
+      "montant_ttc": 0.0,
+      "pourcentage": 23.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B10 LIFE PROMAX",
+      "nom": "PALIER 1 ->17%",
+      "montant_ttc": 0.0,
+      "pourcentage": 17.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B10 LIFE PROMAX",
+      "nom": "PALIER 2 -> 18,50%",
+      "montant_ttc": 0.0,
+      "pourcentage": 18.5,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B10 LIFE PROMAX",
+      "nom": "PALIER 3 -> 20%",
+      "montant_ttc": 0.0,
+      "pourcentage": 20.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B10 LIFE PROMAX",
+      "nom": "GRAND COMPTE - >23%",
+      "montant_ttc": 0.0,
+      "pourcentage": 23.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B10 NEW E-HYBRID DESIGN",
+      "nom": "PALIER 1 ->17%",
+      "montant_ttc": 0.0,
+      "pourcentage": 17.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B10 NEW E-HYBRID DESIGN",
+      "nom": "PALIER 2 -> 18,50%",
+      "montant_ttc": 0.0,
+      "pourcentage": 18.5,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B10 NEW E-HYBRID DESIGN",
+      "nom": "PALIER 3 -> 20%",
+      "montant_ttc": 0.0,
+      "pourcentage": 20.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B10 NEW E-HYBRID DESIGN",
+      "nom": "GRAND COMPTE - >23%",
+      "montant_ttc": 0.0,
+      "pourcentage": 23.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B10 NEW E-HYBRID LIFE",
+      "nom": "PALIER 1 ->17%",
+      "montant_ttc": 0.0,
+      "pourcentage": 17.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B10 NEW E-HYBRID LIFE",
+      "nom": "PALIER 2 -> 18,50%",
+      "montant_ttc": 0.0,
+      "pourcentage": 18.5,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B10 NEW E-HYBRID LIFE",
+      "nom": "PALIER 3 -> 20%",
+      "montant_ttc": 0.0,
+      "pourcentage": 20.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B10 NEW E-HYBRID LIFE",
+      "nom": "GRAND COMPTE - >23%",
+      "montant_ttc": 0.0,
+      "pourcentage": 23.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B10 DESIGN PROMAX",
+      "nom": "PALIER 1 ->17%",
+      "montant_ttc": 0.0,
+      "pourcentage": 17.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B10 DESIGN PROMAX",
+      "nom": "PALIER 2 -> 18,50%",
+      "montant_ttc": 0.0,
+      "pourcentage": 18.5,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B10 DESIGN PROMAX",
+      "nom": "PALIER 3 -> 20%",
+      "montant_ttc": 0.0,
+      "pourcentage": 20.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B10 DESIGN PROMAX",
+      "nom": "GRAND COMPTE - >23%",
+      "montant_ttc": 0.0,
+      "pourcentage": 23.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B05 LIFE PRO",
+      "nom": "PALIER 1 ->17%",
+      "montant_ttc": 0.0,
+      "pourcentage": 17.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B05 LIFE PRO",
+      "nom": "PALIER 2 -> 18,50%",
+      "montant_ttc": 0.0,
+      "pourcentage": 18.5,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B05 LIFE PRO",
+      "nom": "PALIER 3 -> 20%",
+      "montant_ttc": 0.0,
+      "pourcentage": 20.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B05 LIFE PRO",
+      "nom": "GRAND COMPTE - >23%",
+      "montant_ttc": 0.0,
+      "pourcentage": 23.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B05 DESIGN PRO MAX",
+      "nom": "PALIER 1 ->17%",
+      "montant_ttc": 0.0,
+      "pourcentage": 17.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B05 DESIGN PRO MAX",
+      "nom": "PALIER 2 -> 18,50%",
+      "montant_ttc": 0.0,
+      "pourcentage": 18.5,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B05 DESIGN PRO MAX",
+      "nom": "PALIER 3 -> 20%",
+      "montant_ttc": 0.0,
+      "pourcentage": 20.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B05 DESIGN PRO MAX",
+      "nom": "GRAND COMPTE - >23%",
+      "montant_ttc": 0.0,
+      "pourcentage": 23.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B05 LIFE PROMAX",
+      "nom": "PALIER 1 ->17%",
+      "montant_ttc": 0.0,
+      "pourcentage": 17.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B05 LIFE PROMAX",
+      "nom": "PALIER 2 -> 18,50%",
+      "montant_ttc": 0.0,
+      "pourcentage": 18.5,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B05 LIFE PROMAX",
+      "nom": "PALIER 3 -> 20%",
+      "montant_ttc": 0.0,
+      "pourcentage": 20.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "B05 LIFE PROMAX",
+      "nom": "GRAND COMPTE - >23%",
+      "montant_ttc": 0.0,
+      "pourcentage": 23.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "C10 LIFE REEV",
+      "nom": "PALIER 1 ->18%",
+      "montant_ttc": 0.0,
+      "pourcentage": 18.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "C10 LIFE REEV",
+      "nom": "PALIER 2 -> 20,0%",
+      "montant_ttc": 0.0,
+      "pourcentage": 20.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "C10 LIFE REEV",
+      "nom": "PALIER 3 ->22%",
+      "montant_ttc": 0.0,
+      "pourcentage": 22.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "C10 LIFE REEV",
+      "nom": "GRAND COMPTE - >26%",
+      "montant_ttc": 0.0,
+      "pourcentage": 26.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "C10 DESIGN REEV",
+      "nom": "PALIER 1 ->18%",
+      "montant_ttc": 0.0,
+      "pourcentage": 18.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "C10 DESIGN REEV",
+      "nom": "PALIER 2 -> 20,0%",
+      "montant_ttc": 0.0,
+      "pourcentage": 20.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "C10 DESIGN REEV",
+      "nom": "PALIER 3 ->22%",
+      "montant_ttc": 0.0,
+      "pourcentage": 22.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "C10 DESIGN REEV",
+      "nom": "GRAND COMPTE - >26%",
+      "montant_ttc": 0.0,
+      "pourcentage": 26.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "C10 LIFE REEV",
+      "nom": "PRIME REPRISE -> 2000€ TTC",
+      "montant_ttc": 2000.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "C10 DESIGN REEV",
+      "nom": "PRIME REPRISE -> 2000€ TTC",
+      "montant_ttc": 2000.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "C10 DESIGN PRO",
+      "nom": "PALIER 1 ->13,5%",
+      "montant_ttc": 0.0,
+      "pourcentage": 13.5,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "C10 DESIGN PRO",
+      "nom": "PALIER 2 -> 15,50%",
+      "montant_ttc": 0.0,
+      "pourcentage": 15.5,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "C10 DESIGN PRO",
+      "nom": "PALIER 3 ->17,50%",
+      "montant_ttc": 0.0,
+      "pourcentage": 17.5,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "C10 DESIGN PRO",
+      "nom": "GRAND COMPTE - >21,50%",
+      "montant_ttc": 0.0,
+      "pourcentage": 21.5,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "C10 DESIGN PRO",
+      "nom": "PRIME REPRISE -> 1500€ TTC",
+      "montant_ttc": 1500.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "C10 LIFE PRO",
+      "nom": "PALIER 1 ->13,5%",
+      "montant_ttc": 0.0,
+      "pourcentage": 13.5,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "C10 LIFE PRO",
+      "nom": "PALIER 2 -> 15,50%",
+      "montant_ttc": 0.0,
+      "pourcentage": 15.5,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "C10 LIFE PRO",
+      "nom": "PALIER 3 ->17,50%",
+      "montant_ttc": 0.0,
+      "pourcentage": 17.5,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "C10 LIFE PRO",
+      "nom": "GRAND COMPTE - >21,50%",
+      "montant_ttc": 0.0,
+      "pourcentage": 21.5,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "C10 LIFE PRO",
+      "nom": "PRIME REPRISE -> 1500€ TTC",
+      "montant_ttc": 1500.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "C10 LIFE PRO",
+      "nom": "BOOSTER STOCK MY24 125/229 SOCIETE->4800€ TTC",
+      "montant_ttc": 4800.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "B2B",
+      "vehicule": "C10 DESIGN PRO",
+      "nom": "BOOSTER STOCK MY24 125/229 SOCIETE->4800€ TTC",
+      "montant_ttc": 4800.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "T03 DESIGN",
+      "nom": "REMISE COLLABORATEUR -> 4247€ TTC",
+      "montant_ttc": 4247.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B05 LIFE PRO",
+      "nom": "REMISE COLLABORATEUR -> 3000€ TTC",
+      "montant_ttc": 3000.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B05 DESIGN PRO MAX",
+      "nom": "REMISE COLLABORATEUR -> 3000€ TTC",
+      "montant_ttc": 3000.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B05 LIFE PROMAX",
+      "nom": "REMISE COLLABORATEUR -> 3000€ TTC",
+      "montant_ttc": 3000.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B10 LIFE PRO",
+      "nom": "REMISE COLLABORATEUR -> 2620€ TTC",
+      "montant_ttc": 2620.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B10 LIFE PROMAX",
+      "nom": "REMISE COLLABORATEUR -> 2620€ TTC",
+      "montant_ttc": 2620.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B10 DESIGN PROMAX",
+      "nom": "REMISE COLLABORATEUR -> 2620€ TTC",
+      "montant_ttc": 2620.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B10 NEW E-HYBRID DESIGN",
+      "nom": "REMISE COLLABORATEUR -> 3000€ TTC",
+      "montant_ttc": 3000.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B10 NEW E-HYBRID LIFE",
+      "nom": "REMISE COLLABORATEUR -> 3000€ TTC",
+      "montant_ttc": 3000.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "C10 LIFE REEV",
+      "nom": "REMISE COLLABORATEUR -> 4450€ TTC",
+      "montant_ttc": 4450.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "C10 LIFE PRO",
+      "nom": "REMISE COLLABORATEUR -> 4450€ TTC",
+      "montant_ttc": 4450.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "C10 DESIGN REEV",
+      "nom": "REMISE COLLABORATEUR -> 4450€ TTC",
+      "montant_ttc": 4450.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "C10 DESIGN PRO",
+      "nom": "REMISE COLLABORATEUR -> 4450€ TTC",
+      "montant_ttc": 4450.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B05 LIFE PRO",
+      "nom": "RENFORT LOA COLLABORATEUR 228->1200€ TTC",
+      "montant_ttc": 1200.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B05 DESIGN PRO MAX",
+      "nom": "RENFORT LOA COLLABORATEUR 228->1200€ TTC",
+      "montant_ttc": 1200.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B05 LIFE PROMAX",
+      "nom": "RENFORT LOA COLLABORATEUR 228->1200€ TTC",
+      "montant_ttc": 1200.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B10 LIFE PRO",
+      "nom": "RENFORT LOA COLLABORATEUR 228->3720€ TTC",
+      "montant_ttc": 3720.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B10 LIFE PROMAX",
+      "nom": "RENFORT LOA COLLABORATEUR 228->3720€ TTC",
+      "montant_ttc": 3720.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B10 DESIGN PROMAX",
+      "nom": "RENFORT LOA COLLABORATEUR 228->3720€ TTC",
+      "montant_ttc": 3720.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B10 NEW E-HYBRID DESIGN",
+      "nom": "RENFORT LOA COLLABORATEUR 228->3500€ TTC",
+      "montant_ttc": 3500.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "B10 NEW E-HYBRID LIFE",
+      "nom": "RENFORT LOA COLLABORATEUR 228->3500€ TTC",
+      "montant_ttc": 3500.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "C10 LIFE REEV",
+      "nom": "RENFORT LOA COLLABORATEUR 228->2050€ TTC",
+      "montant_ttc": 2050.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "C10 LIFE PRO",
+      "nom": "RENFORT LOA COLLABORATEUR 228->2050€ TTC",
+      "montant_ttc": 2050.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "C10 DESIGN REEV",
+      "nom": "RENFORT LOA COLLABORATEUR  228->2050€ TTC",
+      "montant_ttc": 2050.0,
+      "pourcentage": 0.0,
+      "actif": true
+    },
+    {
+      "type": "PARTICULIER",
+      "vehicule": "C10 DESIGN PRO",
+      "nom": "RENFORT LOA COLLABORATEUR 228->2050€ TTC",
+      "montant_ttc": 2050.0,
+      "pourcentage": 0.0,
+      "actif": true
+    }
+  ],
+  "profils_client": [
+    "PARTICULIER",
+    "B2B",
+    "VD",
+    "VAE"
+  ],
+  "admin_password": "leap2026"
+}
